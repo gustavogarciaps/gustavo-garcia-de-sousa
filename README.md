@@ -1,11 +1,25 @@
-# Contato
 
-<div> 
-<a href="https://www.linkedin.com/in/gustavo-garcia-de-sousa" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
+##
+<h3 align="center"> Minhas Estatísticas</h3>
+ <p align="center" >   
+  <strong>Visualização do Pefil:</strong>
+  <br>
+  <img src="https://profile-counter.glitch.me/gustavogarciaps/count.svg" />  
+ </p>
  
+ <div align="center">
+  <a href="https://github.com/gustavogarciaps"></a>
+  <img height="180em" width="75%" src="https://github-readme-stats.vercel.app/api?username=gustavogarciaps&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+ <img height="180em" width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavogarciaps&theme=gruvbox" alt="gustavogarciaps" /> 
 </div>
+ 
+##
+ <h3> Redes Sociais: </h3>
+  <div>
+   <a href="https://www.linkedin.com/in/gustavo-garcia-de-sousa" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a> 
+  </div>
+ 
   
 # Estou aprendendo
 
