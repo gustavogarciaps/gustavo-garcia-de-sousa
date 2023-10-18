@@ -11,7 +11,7 @@
  <div align="center">
   <a href="https://github.com/gustavogarciaps"></a>
   <img height="180em" width="75%" src="https://github-readme-stats.vercel.app/api?username=gustavogarciaps&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
- <img height="180em" width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavogarciaps&theme=gruvbox" alt="gustavogarciaps" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogarciaps&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
  
 ##
