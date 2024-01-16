@@ -1,26 +1,31 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=shark&height=50&color=159A9C&reversal=true&fontColor=159A9C&fontSize=35&fontAlignY=35&animation=blink"/>
 
-  
-##
-<h3 align="center"> Minhas Estatísticas</h3>
- <p align="center" >   
-  <strong>Visualização do Pefil:</strong>
-  <br>
-  <img src="https://profile-counter.glitch.me/gustavogarciaps/count.svg" />  
- </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=4000&pause=500&color=159A9C&random=false&width=435&lines=Hello%2C+World!;Eu+me+chamo+Gustavo!)](https://git.io/typing-svg)
+
+<div align="center">
+Bem-vindo ao meu cantinho no GitHub, onde navego entre linhas de código e soluções bem elaboradas (talvez nem tanto). 
+
+Atualmente, estou desenvolvendo alguns projetos individuais, onde tenho a oportunidade de descobrir novas tecnologias e trazer um pouco do meu mundo pro código. 
+
+Espero que não encontre nenhum bug 😥 
+Brincadeira! Eu acredito que cada vez que reconhecemos um erro, temos a chance de melhorar 😁
+
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=shark&height=50&color=159A9C&reversal=true&fontColor=DBF227&fontSize=35&fontAlignY=35&animation=blink&section=footer">
  
- <div align="center">
+<div align="center">
+
+###  <strong>Visualização do Pefil: </strong>
+<img src="https://profile-counter.glitch.me/gustavogarciaps/count.svg" /> 
+
   <a href="https://github.com/gustavogarciaps"></a>
-  <img height="180em" width="75%" src="https://github-readme-stats.vercel.app/api?username=gustavogarciaps&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogarciaps&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
  
-##
- <h3> Redes Sociais: </h3>
-  <div>
-   <a href="https://www.linkedin.com/in/gustavo-garcia-de-sousa" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a> 
-  </div>
- 
-  
-# Estou aprendendo
+<div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" width="60" height="60"/>   
+# Stacks que eu já tive contato
+  
+[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,php,py,nodejs,docker,git,gradle,html,css,js,ts,mysql,postgres,react,angular,spring&theme=light)](https://skillicons.dev)
+</div>
