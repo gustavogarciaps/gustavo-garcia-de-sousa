@@ -7,9 +7,6 @@ Bem-vindo ao meu cantinho no GitHub, onde navego entre linhas de código e solu�
 
 Atualmente, estou desenvolvendo alguns projetos individuais, onde tenho a oportunidade de descobrir novas tecnologias e trazer um pouco do meu mundo pro código. 
 
-Espero que não encontre nenhum bug 😥 
-Brincadeira! Eu acredito que cada vez que reconhecemos um erro, temos a chance de melhorar 😁
-
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=shark&height=50&color=159A9C&reversal=true&fontColor=DBF227&fontSize=35&fontAlignY=35&animation=blink&section=footer">
