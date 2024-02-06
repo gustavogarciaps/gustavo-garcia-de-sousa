@@ -14,10 +14,10 @@ Atualmente, estou desenvolvendo alguns projetos individuais, onde tenho a oportu
 <div align="center">
 
 ###  <strong>Visualização do Pefil: </strong>
-<img src="https://profile-counter.glitch.me/sagobr/count.svg" /> 
+<img src="https://profile-counter.glitch.me/sagubr/count.svg" /> 
 
-  <a href="https://github.com/sagobr"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagobr&layout=compact&langs_count=7&theme=gruvbox"/>
+  <a href="https://github.com/sagubr"></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagubr&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
  
 <div align="center">
