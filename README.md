@@ -22,7 +22,7 @@ Atualmente, estou desenvolvendo alguns projetos individuais, onde tenho a oportu
  
 <div align="center">
 
-# Stacks que eu já tive contato
+# 
   
 [![My Skills](https://skillicons.dev/icons?i=java,c,cpp,php,py,nodejs,docker,git,gradle,html,css,js,ts,mysql,postgres,react,angular,spring&theme=light)](https://skillicons.dev)
 </div>
