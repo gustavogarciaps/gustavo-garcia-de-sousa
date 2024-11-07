@@ -24,5 +24,5 @@ Atualmente, estou desenvolvendo alguns projetos individuais, onde tenho a oportu
 
 # 
   
-[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,php,py,nodejs,docker,git,gradle,html,css,js,ts,mysql,postgres,react,angular,spring&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,gradle,docker,git,angular,ts,postgres&theme=light)](https://skillicons.dev)
 </div>
